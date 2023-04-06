@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br><h2>
 
-<h3 align="center">This project was created for the development of my skills with node.js using framerwork and the routes.<h3>
+<h3 align="center">This project was created for the development of my skills with node.js using framework and the routes.<h3>
 <br>
